@@ -10,6 +10,9 @@ walks you through the installation of the library, introduces the logic it
 employs and the different settings to control how your animated charts look and
 behave.
 
+The tutorial has multiple chapters that introduce the usage and options of the library step-by-step.
+Still, it's not necessary that you go through it in that exact order. The chapters are listed at the end of this page and in the menu.
+
 ## Basic logic of ipyvizzu
 
 The foundation of an `ipyvizzu` chart is the animation. The animation contains
